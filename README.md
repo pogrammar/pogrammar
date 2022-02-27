@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on Discord bots
 
-- 🌱 I’m currently learning Nothing 
+- 🌱 Im always learning something
 
 - 👯 I’m looking to collaborate on Discord bot projects 
 
