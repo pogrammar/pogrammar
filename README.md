@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Discord bot projects** 
 
-- 💬 Talk to me about **Python**, [**Discord.py**](https://discordpy.readthedocs.io/en/stable/), [**Py-cord**](https://docs.pycord.dev/en/stable/)  
+- 💬 Talk to me about [**Python**](https://www.python.org/), [**Discord.py**](https://discordpy.readthedocs.io/en/stable/), [**Py-cord**](https://docs.pycord.dev/en/stable/)  
 
 <h2> Skills &nbsp<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/topics/python/ target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
